@@ -1,0 +1,302 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "784c5dea-07fb-405b-b47b-b39f38b401ff",
+  "name": "放牧和豚",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "放牧和豚パイオニアポーク",
+        "play_count": 12,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "36bac8f7-0b81-48a9-b58b-50a195681321",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/36bac8f7-0b81-48a9-b58b-50a195681321.mp3",
+        "image_url": "image/image_36bac8f7-0b81-48a9-b58b-50a195681321.jpeg",
+        "image_large_url": "image_large/image_large_36bac8f7-0b81-48a9-b58b-50a195681321.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "",
+          "prompt": "Verse 1]\\nひろい空　風が走る\\n土の匂い　朝が笑う\\n大地から　ゆっくり育つ\\nまっすぐな　いのちのかたち\\n\\n[Pre-Chorus]\\n急がない　ごまかさない\\n見えない手　ここにはない\\n顔の見える　その手のあたたかさが\\nショクタクまで　届いてくる\\n\\n[Chorus]\\n食べ応えのある　この赤身\\n噛むたび心が　ほどけてく\\nさっぱりなのに　広がるコク\\nうまみが静かに　寄り添うよ\\nホウボクワトン　パイオニアポーク\\n信じて選べる　おいしさ革命\\n\\n[Verse 2]\\n余計な匂い　探してもない\\n澄んだ風だけ　まとったアブラ\\nひと切れで　笑顔がふえる\\n今日のごちそうが　未来を変える\\n\\n[Pre-Chorus]\\n守りたい　たしかなもの\\n家族の「おいしい」　その一言\\n畑から　箸先までつながる\\n物語を　噛みしめてる\\n\\n[Chorus]\\n食べ応えのある　この赤身\\n噛むたび景色が　色づいて\\nさっぱりなのに　深まるコク\\nこころとからだに　しみこんでく\\nホウボクワトン　パイオニアポーク\\n笑顔をつなげる　おいしさ革命\\n\\n[Bridge]\\nひとりのショクタクにも\\nにぎやかな声のあいだにも\\n同じ願い　そっと灯る\\n「アンゼンで　やさしくて　誇れる一皿」\\n\\n[Chorus]\\n食べ応えのある　この赤身\\n噛むたび明日が　近くなる\\nさっぱりなのに　満ちていくコク\\n小さな幸せ　守ってく\\nホウボクワトン　パイオニアポーク\\n選ぶたび始まる　おいしさ革命",
+          "edited_clip_id": "00000000-0000-0000-0000-000000000000",
+          "type": "gen",
+          "duration": 184.96,
+          "refund_credits": false,
+          "stream": true,
+          "has_vocal": false,
+          "can_publish_with_vocal": true,
+          "make_instrumental": false,
+          "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+          "task": "cover",
+          "can_remix": true,
+          "is_remix": true,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "secondary_badges": [
+            {
+              "display_name": "Cover",
+              "light": {
+                "text_color": "7D7C83",
+                "background_color": "1C1C1F0A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "A3A3A3",
+                "background_color": "FFFFFF0C",
+                "border_color": "00000000"
+              }
+            }
+          ]
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-02-19T14:24:01.428Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "響け、パイオニアポーク",
+        "play_count": 12,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "35162428-db3f-43d3-b4d2-b06c77f13ef5",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/35162428-db3f-43d3-b4d2-b06c77f13ef5.mp3",
+        "image_url": "image/image_35162428-db3f-43d3-b4d2-b06c77f13ef5.jpeg",
+        "image_large_url": "image_large/image_large_35162428-db3f-43d3-b4d2-b06c77f13ef5.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "",
+          "prompt": "[Intro]\\n[ギターリフが駆け上がる]\\n\\n[Verse 1]\\n荒野にひびく\\n仔ぶたの足音\\n自由にかける\\n未来のごちそう\\n\\n赤く引き締まる\\n力のしるし\\nかぶりついたら\\n胸が熱くなる (hey!)\\n\\n[Pre-Chorus]\\nなあ　知ってるか\\nほんとのうまさの出どころ\\n空　風　土\\n全部　味になってく\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク (ho!)\\nかみしめるたび　革命が走る\\nさっぱりなのに　あふれるコクが\\n今日のヒーロー　テーブルに着地\\n\\nホウボクワトン　パイオニアポーク (yeah!)\\n脂も軽くて　するりと消える\\nくさみ知らずで　誰でも笑顔\\nかじれ　かじれ　おいしさ覚醒\\n\\n[Verse 2]\\nひと切れの中\\n物語がある\\n青空の下で\\n強く育った\\n\\n広がるうまみ\\nあとはもう黙るだけ\\n「おかわりちょうだい」\\nそれが合図だ (oh yeah)\\n\\n[Pre-Chorus]\\nさあ　立ち上がれ\\nハラペコの勇者たちよ\\n今　皿の上\\n赤い光がよぶ\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク (ho!)\\nかみしめるたび　革命が走る\\nさっぱりなのに　あふれるコクで\\n昨日の常識　蹴りあげていけ\\n\\nホウボクワトン　パイオニアポーク (yeah!)\\n脂も軽くて　するりと消える\\nくさみ知らずで　最後のひと切れ\\nゆずれないのは　この一皿だ\\n\\n[Bridge]\\n[ドラムブレイクから全員シャウト]\\n燃えろ　赤身\\nはじけろ　コク\\n「ごちそうさま」が\\n変えてく世界\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク (ho!)\\nかみしめるたび　革命が走る\\nさっぱりなのに　あふれるコクが\\n今日のヒーロー　テーブルに着地\\n\\nホウボクワトン　パイオニアポーク (yeah!)\\n脂も軽くて　するりと消える\\nくさみ知らずで　誰でも笑顔\\nホウボクワトン　パイオニアポーク (hey!)",
+          "edited_clip_id": "00000000-0000-0000-0000-000000000000",
+          "type": "gen",
+          "duration": 242.96,
+          "refund_credits": false,
+          "stream": true,
+          "has_vocal": false,
+          "can_publish_with_vocal": true,
+          "make_instrumental": false,
+          "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+          "task": "cover",
+          "can_remix": true,
+          "is_remix": true,
+          "priority": 10,
+          "has_stem": false,
+          "video_is_stale": true,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "secondary_badges": [
+            {
+              "display_name": "Cover",
+              "light": {
+                "text_color": "7D7C83",
+                "background_color": "1C1C1F0A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "A3A3A3",
+                "background_color": "FFFFFF0C",
+                "border_color": "00000000"
+              }
+            }
+          ]
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-02-19T14:20:50.426Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "パイオニアポークの休日",
+        "play_count": 8,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "9a63a55b-aa9c-4b21-97dc-a105da7fd232",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/9a63a55b-aa9c-4b21-97dc-a105da7fd232.mp3",
+        "image_url": "image/image_9a63a55b-aa9c-4b21-97dc-a105da7fd232.jpeg",
+        "image_large_url": "image_large/image_large_9a63a55b-aa9c-4b21-97dc-a105da7fd232.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Gentle bossa-influenced acoustic groove with nylon guitar and soft breathy flute; male vocals laid back, almost conversational. Verses stay intimate and close-mic’d, chorus blossoms with light vocal doubles and warm room reverb. Subtle percussion brushes and soft bass ease in halfway, carrying a lazy Sunday sway perfect for a cozy food-brand theme.",
+          "prompt": "[Verse 1]\\n日曜の昼下がり\\n窓からひかり　テーブルの上\\n白ワイン　小さなグラス\\n湯気の向こうに　君が笑う\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク\\nひとくちで　世界がゆるむ (ふっと)\\n引き締まった赤身に　しあわせのため息\\nさっぱりとして　コクがひろがる\\nこんな時間が　ごちそうだね\\n\\n[Verse 2]\\n脂がきらりと光る\\n軽やかにとけて　舌になじむ\\nくさみの影も　どこかへ消えて\\n「食べやすいね」と　目を細める君\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク\\nおいしさ革命　ここからだね (ほら)\\n噛むたびに　ゆっくりほどける　うまみ\\nさっぱりとして　コクがあとを引く\\nこのひと皿で　旅に出かけよう\\n\\n[Bridge]\\n外は遠くで　街が回ってる\\nここはふたりの　小さな牧場\\n深呼吸して　もうひとくち\\nしずかな贅沢　時間もとろける\\n\\n[Chorus]\\nホウボクワトン　パイオニアポーク\\nひとくちで　今日が好きになる (うん)\\n引き締まった赤身と　やさしい脂身で\\nさっぱりしてて　コクに包まれる\\nこんな毎日を　育てていこう",
+          "gpt_description_prompt": "食べ応えのある引き締まった赤身、おいしさ革命の放牧ブランド豚、ホウボクワトン、パイオニアポークのテーマ曲。\\nさっぱりしていて旨味とコクのある脂身。臭みがなく食べやすい。\\n楽器: ナイロン弦のギター、柔らかなフルート。\\n雰囲気: 日曜日の昼下がり、白ワインとともに食事を楽しむような、ゆったりとした贅沢な時間。",
+          "type": "gen",
+          "duration": 158.44,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "video_is_stale": true,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-02-19T14:28:03.874Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "bossa nova, acoustic, lounge",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 3
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_35162428-db3f-43d3-b4d2-b06c77f13ef5.jpeg",
+  "num_total_results": 3,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "36bac8f7-0b81-48a9-b58b-50a195681321",
+    "35162428-db3f-43d3-b4d2-b06c77f13ef5",
+    "9a63a55b-aa9c-4b21-97dc-a105da7fd232"
+  ]
+}
