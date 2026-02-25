@@ -4,6 +4,10 @@
 
 再生アプリ「[放牧和豚](https://code4fukui.github.io/music-pioneerpork/)」
 
+## music license
+
+- CC BY [Pioneer Pork](https://pioneer-pork.com/)
+
 ## special thanks!
 
 パイオニアポーク 有方さん
