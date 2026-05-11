@@ -1,21 +1,28 @@
 # music-pioneerpork
 
-[放牧和豚Pioneer Pork（パイオニアポーク）](https://pioneer-pork.com/)の曲
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-再生アプリ「[放牧和豚](https://code4fukui.github.io/music-pioneerpork/)」
+A web-based music player featuring AI-generated songs about [Pioneer Pork (放牧和豚)](https://pioneer-pork.com/). The music was created using [Suno](https://suno.com/).
 
-## music license
+**Listen here:** [**放牧和豚 Music Player**](https://code4fukui.github.io/music-pioneerpork/)
 
-- CC BY [Pioneer Pork](https://pioneer-pork.com/)
+The application provides a simple interface to play the songs, view album art, and read the lyrics. It is a self-contained static web page that runs directly in your browser.
 
-## special thanks!
 
-パイオニアポーク 有方さん
-https://suno.com/playlist/784c5dea-07fb-405b-b47b-b39f38b401ff
+![Music player interface showing a playlist on the left, album art and audio controls in the center, and lyrics on the right.](https://user-images.githubusercontent.com/1025994/281987823-76953282-581d-4033-9069-7977a4197992.png)
 
-## download
+
+## Updating the Playlist
+
+The audio files, images, and playlist data are downloaded from a public Suno playlist. To update or download the assets locally, run the following command using Deno.
+
+This process utilizes a script from the [music-opendata-fukui](https://github.com/code4fukui/music-opendata-fukui) project.
 
 ```sh
-deno -A https://code4fukui.github.io/music-opendata-fukui/download.js 784c5dea-07fb-405b-b47b-b39f38b401ff
+deno run -A https://code4fukui.github.io/music-opendata-fukui/download.js 784c5dea-07fb-405b-b47b-b39f38b401ff
 ```
-with [music-opendata-fukui](https://github.com/code4fukui/music-opendata-fukui)
+
+## Special Thanks
+
+- パイオニアポーク 有方さん (Mr. Arikata from Pioneer Pork)
+- Original Suno Playlist: https://suno.com/playlist/784c5dea-07fb-405b-b47b-b39f38b401ff
